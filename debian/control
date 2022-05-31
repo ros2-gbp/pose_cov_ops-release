@@ -1,0 +1,12 @@
+Source: ros-galactic-pose-cov-ops
+Section: misc
+Priority: optional
+Maintainer: Jose-Luis Blanco-Claraco <jlblanco@ual.es>
+Build-Depends: debhelper (>= 9.0.0), cmake, libgtest-dev <!nocheck>, ros-galactic-ament-cmake, ros-galactic-ament-cmake-gmock, ros-galactic-ament-cmake-gtest, ros-galactic-ament-cmake-xmllint, ros-galactic-ament-lint-auto <!nocheck>, ros-galactic-ament-lint-common <!nocheck>, ros-galactic-geometry-msgs, ros-galactic-mrpt2, ros-galactic-ros-environment, ros-galactic-ros-workspace
+Homepage: https://wiki.ros.org/pose_cov_ops
+Standards-Version: 3.9.2
+
+Package: ros-galactic-pose-cov-ops
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-galactic-geometry-msgs, ros-galactic-mrpt2, ros-galactic-ros-workspace
+Description: C++ library for SE(2)/SE(3) pose composition operations with uncertainty

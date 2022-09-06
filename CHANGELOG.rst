@@ -2,6 +2,17 @@
 Changelog for package pose_cov_ops
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.8 (2022-09-06)
+------------------
+* Add compose() and inverseCompose() versions for tf2::Transform
+* Contributors: Jose Luis Blanco Claraco
+
+0.3.7 (2022-06-24)
+------------------
+* Remove duplicated entry in package.xml
+* Offer an C++ API with return-by-value semantics.
+* Contributors: Jose Luis Blanco-Claraco
+
 0.3.6 (2022-06-12)
 ------------------
 * fix package.xml build_type for ros1/ros2

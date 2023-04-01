@@ -1,3 +1,26 @@
+## pose_cov_ops (rolling) - 0.3.9-1
+
+The packages in the `pose_cov_ops` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --ros-distro rolling pose_cov_ops -y` on `Sat, 01 Apr 2023 01:28:01 -0000`
+
+The `pose_cov_ops` package was released.
+
+Version of package(s) in repository `pose_cov_ops`:
+
+- upstream repository: https://github.com/mrpt-ros-pkg/pose_cov_ops.git
+- release repository: https://github.com/ros2-gbp/pose_cov_ops-release.git
+- rosdistro version: `0.3.8-2`
+- old version: `0.3.8-2`
+- new version: `0.3.9-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.1`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## pose_cov_ops (humble) - 0.3.9-1
 
 The packages in the `pose_cov_ops` repository were released into the `humble` distro by running `/usr/bin/bloom-release --ros-distro humble pose_cov_ops -y` on `Sat, 01 Apr 2023 01:26:50 -0000`

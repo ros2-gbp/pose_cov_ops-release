@@ -1,0 +1,12 @@
+Source: ros-rolling-pose-cov-ops
+Section: misc
+Priority: optional
+Maintainer: Jose-Luis Blanco-Claraco <jlblanco@ual.es>
+Build-Depends: debhelper (>= 9.0.0), cmake, libgtest-dev <!nocheck>, ros-rolling-ament-cmake, ros-rolling-ament-cmake-gmock, ros-rolling-ament-cmake-gtest, ros-rolling-ament-cmake-xmllint, ros-rolling-ament-lint-auto <!nocheck>, ros-rolling-ament-lint-common <!nocheck>, ros-rolling-geometry-msgs, ros-rolling-mrpt2, ros-rolling-ros-environment, ros-rolling-tf2, ros-rolling-ros-workspace
+Homepage: https://wiki.ros.org/pose_cov_ops
+Standards-Version: 3.9.2
+
+Package: ros-rolling-pose-cov-ops
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-rolling-geometry-msgs, ros-rolling-mrpt2, ros-rolling-tf2, ros-rolling-ros-workspace
+Description: C++ library for SE(2)/SE(3) pose composition operations with uncertainty

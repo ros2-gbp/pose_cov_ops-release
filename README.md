@@ -1,3 +1,26 @@
+## pose_cov_ops (kilted) - 0.3.14-1
+
+The packages in the `pose_cov_ops` repository were released into the `kilted` distro by running `/usr/bin/bloom-release -y -r kilted pose_cov_ops` on `Wed, 28 May 2025 09:16:41 -0000`
+
+The `pose_cov_ops` package was released.
+
+Version of package(s) in repository `pose_cov_ops`:
+
+- upstream repository: https://github.com/mrpt-ros-pkg/pose_cov_ops.git
+- release repository: https://github.com/ros2-gbp/pose_cov_ops-release.git
+- rosdistro version: `0.3.13-2`
+- old version: `0.3.13-2`
+- new version: `0.3.14-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## pose_cov_ops (rolling) - 0.3.13-1
 
 The packages in the `pose_cov_ops` repository were released into the `rolling` distro by running `/home/jlblanco/code/bloom-venv/bin/bloom-release -y -r rolling pose_cov_ops` on `Sat, 26 Oct 2024 18:45:00 -0000`

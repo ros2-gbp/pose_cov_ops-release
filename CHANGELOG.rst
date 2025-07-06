@@ -2,6 +2,14 @@
 Changelog for package pose_cov_ops
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.4.0 (2025-07-07)
+------------------
+* Update copyright year
+* FIX: Build error against latest tf2
+* README: Update EOL distros
+* Better integration with colcon and clang-tidy
+* Contributors: Jose Luis Blanco-Claraco
+
 0.3.14 (2025-05-28)
 -------------------
 * Update README with Kilted badges

@@ -1,3 +1,26 @@
+## pose_cov_ops (jazzy) - 0.4.0-1
+
+The packages in the `pose_cov_ops` repository were released into the `jazzy` distro by running `/home/jlblanco/code/bloom-venv/bin/bloom-release -r jazzy -y pose_cov_ops` on `Sun, 06 Jul 2025 22:03:17 -0000`
+
+The `pose_cov_ops` package was released.
+
+Version of package(s) in repository `pose_cov_ops`:
+
+- upstream repository: https://github.com/mrpt-ros-pkg/pose_cov_ops.git
+- release repository: https://github.com/ros2-gbp/pose_cov_ops-release.git
+- rosdistro version: `0.3.13-1`
+- old version: `0.3.13-1`
+- new version: `0.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## pose_cov_ops (humble) - 0.4.0-1
 
 The packages in the `pose_cov_ops` repository were released into the `humble` distro by running `/home/jlblanco/code/bloom-venv/bin/bloom-release -r humble -y pose_cov_ops` on `Sun, 06 Jul 2025 22:00:58 -0000`

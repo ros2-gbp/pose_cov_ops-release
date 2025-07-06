@@ -2,6 +2,20 @@
 Changelog for package pose_cov_ops
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.4.0 (2025-07-07)
+------------------
+* Update copyright year
+* FIX: Build error against latest tf2
+* README: Update EOL distros
+* Better integration with colcon and clang-tidy
+* Contributors: Jose Luis Blanco-Claraco
+
+0.3.14 (2025-05-28)
+-------------------
+* Update README with Kilted badges
+* Fix: Remove usage of obsolete ament_target_dependencies()
+* Contributors: Jose Luis Blanco-Claraco
+
 0.3.13 (2024-10-26)
 -------------------
 * Update README.md to add links to example ROS1/ROS2 packages.
